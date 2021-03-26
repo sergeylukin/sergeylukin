@@ -2,7 +2,8 @@
 
 I'm web apps/ops developer. I blog at https://sergeylukin.com/ 
 
-- 🔭 I’m currently working on https://yay.tips
+- 👔 I help companies to reduce their computing costs by working at [Granulate](https://granulate.io/)
+- 🔭 In my free time I build https://yay.tips
 - 🌱 I’m currently learning GraphQL
 - 👯 I’m looking to collaborate on Strapi, Gatsby and theme-ui
 - 🤔 I’m looking for help with understanding modern design systems better
