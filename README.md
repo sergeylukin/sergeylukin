@@ -2,7 +2,7 @@
 
 I'm web apps/ops developer. I blog at https://sergeylukin.com/ 
 
-- 👔 I help companies to reduce their computing costs by working at [Granulate](https://granulate.io/)
+- 👔 I help companies to reduce their computing costs. [Come work with me at Granulate!](https://www.comeet.com/jobs/granulate/56.000?coref=1.10.r92_70D&t=1618829492285)
 - 🔭 In my free time I build https://yay.tips
 - 🌱 I’m currently learning GraphQL
 - 👯 I’m looking to collaborate on Strapi, Gatsby and theme-ui
